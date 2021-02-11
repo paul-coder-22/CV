@@ -1,0 +1,25 @@
+.profile{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+body {
+    background-color:powderblue;
+}
+
+hr {
+    border-style: none;
+    background-color: white;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+h3{
+    color: crimson;
+}
+h3:hover{
+    background-color: gold;
+    transition-duration: 1s;
+}
