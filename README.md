@@ -27,6 +27,10 @@ downloadFile(id: any, mimeType: any) {
   
   # React 
   <ul>
+    <ol>
   <a href="https://codesandbox.io/s/es6-spread-operator-practice-forked-4m276">Rendering list of notes *.*</a>
+    </ol>
+   <ol> 
   <a href="https://rd7gy.csb.app/">How can we delete the exsisting list items.*.*</a>
+</ol>  
 </ul>
