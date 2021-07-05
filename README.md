@@ -6,6 +6,9 @@
     <li>
         <a href="https://stackblitz.com/edit/angular-ivy-trxtk3?file=src%2Fapp%2Fapp.component.html">Angular Form</a>
     </li>
+     <li>
+        <a href="https://stackblitz.com/edit/angular-ivy-kg3hqh?file=src%2Fapp%2Fapp.component.html">Angular : Display Image As A Input</a>
+    </li>
 </ol>
 
 
