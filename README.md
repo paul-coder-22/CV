@@ -42,3 +42,10 @@ downloadFile(id: any, mimeType: any) {
   <a href="https://rd7gy.csb.app/">How can we delete the exsisting list items.*.*</a>
 </ol>  
 </ul>
+
+# Vanila js
+<ol>
+    <li>
+        <a href="https://medium.com/front-end-weekly/how-to-optimize-image-loading-on-your-website-855020fb41ae">Image Fast Loading through Js</a>
+    </li>
+</ol>
